@@ -1,0 +1,87 @@
+[
+    {
+        "component_name": "",
+        "draw_vb": "2bf2e7b3",
+        "position_vb": "2bf2e7b3",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "401bc689",
+        "object_indexes": [
+            0,
+            12,
+            3171,
+            4125,
+            4911
+        ],
+        "object_classifications": [
+            "Head",
+            "Body",
+            "Dress",
+            "Extra",
+            "Extra2"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6dc88283"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e3fe5a72"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "bc5a8955"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "bb5905b2"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6dc88283"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e3fe5a72"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "65656bd6"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "bb5905b2"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "2ba95fa8"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "bb5905b2"
+                ]
+            ]
+        ],
+        "first_vs": "f9e0036acd0d3455"
+    }
+]

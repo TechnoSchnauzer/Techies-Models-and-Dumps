@@ -1,0 +1,101 @@
+[
+    {
+        "component_name": "",
+        "draw_vb": "9ecf57f0",
+        "position_vb": "9ecf57f0",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "d79af3be",
+        "object_indexes": [
+            0,
+            4872,
+            4878,
+            6222,
+            10638,
+            11385
+        ],
+        "object_classifications": [
+            "Head",
+            "Body",
+            "Dress",
+            "Extra",
+            "Extra2",
+            "Extra23"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "bc5a8955"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "bb5905b2"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "33113eeb"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "bb5905b2"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "2ba95fa8"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "bb5905b2"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "65656bd6"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "bb5905b2"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6dc88283"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "e3fe5a72"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "462be238"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "bb5905b2"
+                ]
+            ]
+        ],
+        "first_vs": "f9e0036acd0d3455"
+    }
+]

@@ -1,0 +1,8 @@
+byte offset: 0
+first index: 4872
+index count: 6
+topology: trianglelist
+format: DXGI_FORMAT_R16_UINT
+
+2386 2387 2388
+2387 2386 2389
